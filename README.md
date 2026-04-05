@@ -12,3 +12,5 @@ license: mit
 # AI Text Humanizer
 **Developed by:** Ghulam Awais
 **Supervised by:** Sir Mohsin Abbas
+## Live Demo
+https://huggingface.co/spaces/Awais138/ai-text-humanizer

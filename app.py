@@ -33,6 +33,7 @@ AVOID:
 - "In conclusion", "To combat this issue", "As a result"
 - "Furthermore", "Moreover", "It is worth noting"
 - Any robotic or textbook-style phrases
+- Slang or overly casual phrases like "isn't great", "a lot", "big impact"
 
 GOAL:
 Make the text feel human-written, natural, and easy to read.
